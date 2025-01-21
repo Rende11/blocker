@@ -1,12 +1,12 @@
 # Blocking local access to websites that distract you.
 
 ```
-Run from sources
+Run from sources:
   go run main.go help
 ```
 
 ```
-Build
+Build:
   go build .
 ```
 
