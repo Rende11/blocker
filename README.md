@@ -1,6 +1,16 @@
 # Blocking local access to websites that distract you.
 
 ```
+Run from sources
+  go run main.go help
+```
+
+```
+Build
+  go build .
+```
+
+```
 Usage:
   blocky [command]
 
